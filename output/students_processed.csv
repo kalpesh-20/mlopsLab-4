@@ -1,0 +1,9 @@
+Student_ID,Name,Age,Study_Hours,Attendance,Marks,Performance_Level,Attendance_Category
+101,Amit,20,5.0,85,78.0,Good,Good
+102,Priya,21,7.0,92,88.0,Excellent,Good
+103,Rahul,20,5.428571428571429,75,65.0,Average,Good
+104,Sneha,22,6.0,95,91.0,Excellent,Good
+105,Neha,21,4.0,80,72.0,Good,Good
+106,Akash,20,8.0,98,95.0,Excellent,Good
+107,Riya,22,3.0,70,60.0,Average,Low
+108,Om,21,5.0,88,78.42857142857143,Good,Good
